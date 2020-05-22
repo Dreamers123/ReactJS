@@ -1,0 +1,39 @@
+.column{
+    text-align: center;
+    margin-top: 5%;
+}
+.field{
+    color: #1b6d85;
+    margin: 10px;
+    display: block;
+    font-size:25px;
+
+}
+.card{
+    border: 1px solid #eee;
+    box-shadow: 4px 4px 4px #ccc;
+    width: 400px;
+    margin: 20px;
+    margin-left: 35%;
+}
+button{
+    height:38px;
+    background:#e8491d;
+    border:0;
+    padding-left: 20px;
+    padding-right:20px;
+    color:#ffffff;
+    margin: 10px;
+}
+input[type="text"]{
+    padding:4px;
+    height:15px;
+    width:150px;
+    margin: 2px;
+    margin-left: 15px;
+    text-align: center;
+}
+.header{
+    margin: 5px;
+    font-size:30px;
+}

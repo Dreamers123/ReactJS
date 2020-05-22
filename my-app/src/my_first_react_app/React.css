@@ -1,0 +1,29 @@
+html{
+    background: lightblue;
+}
+.React {
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background: coral;
+    padding:20px;
+    margin-top:370px;
+    color:#ffffff;
+}
+img{
+    height: 400px;
+    widtht:400px;
+    padding: 30px;
+}
+footer p{
+    font-size: 20px;
+}
+button{
+    height:38px;
+    background:#e8491d;
+    border:0;
+    padding-left: 20px;
+    padding-right:20px;
+    color:#ffffff;
+}

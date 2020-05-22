@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+    display: block;
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+}
+.App h1{
+    font-family: "Arabic Typesetting";
+    color: coral;
+    font-weight: 300;
+}
+.header{
+    border: 1px solid #eee;
+    box-shadow: 4px 4px 4px #ccc;
+}

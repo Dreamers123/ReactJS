@@ -1,0 +1,10 @@
+.person {
+    text-align: center;
+     padding: 10px;
+}
+input[type="text"]{
+    padding:4px;
+    height:15px;
+    width:150px;
+    margin-left: 10px;
+}

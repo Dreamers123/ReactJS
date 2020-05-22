@@ -1,0 +1,26 @@
+.item{
+    display: flex;
+    border: 1px solid #eee;
+    box-shadow: 4px 4px 4px #ccc;
+    margin: 20px;
+    height: 50%;
+}
+.image{
+    float: left;
+}
+.right{
+    float: right;
+    margin: 5% 1% 0 1%;
+
+}
+@media(max-width: 1080px){
+    .item,.image{
+        display:block;
+        text-align: center;
+    }
+    .image,.right{
+        float: none;
+        overflow:hidden;
+    }
+
+}
